@@ -6,9 +6,10 @@
   "author": "anjanms",
   "dependencies": {
     "engine.io-client": "^3.2.1",
-    "request": "^2.79.0"
+    "request": "^2.88.0"
   },
   "devDependencies": {
+    "dotenv": "^7.0.0",
     "eslint": "^2.13.1"
   },
   "engines": {
